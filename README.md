@@ -43,5 +43,12 @@ This installs body-parser, ethers, express.js, etc. Run the server using
 Run the iOS App by opening the `.xcodeproj` file.
 
 ## Images
-
-
+<img src=https://github.com/nkoorty/Starcast/assets/80065244/db9d8eea-bae6-4d9c-8e5f-1f7cf3546eae width=20% height=20%>
+<img src=https://github.com/nkoorty/Starcast/assets/80065244/f3486e11-e9f3-4b5b-b4ea-f8d70a8b959c width=20% height=20%>
+<img src=https://github.com/nkoorty/Starcast/assets/80065244/4faeeab5-e375-4480-a311-c83b77624b68 width=20% height=20%>
+<img src=https://github.com/nkoorty/Starcast/assets/80065244/853ff609-50c8-4cb3-aa05-7d89032f95d2 width=20% height=20%>
+<img src=https://github.com/nkoorty/Starcast/assets/80065244/4062db28-8b1e-4d30-b3d7-5b9a63d0fd44 width=20% height=20%>
+<img src=https://github.com/nkoorty/Starcast/assets/80065244/2d202cd2-de00-4222-8d5d-0ebf89e0c5c3 width=20% height=20%>
+<img src=https://github.com/nkoorty/Starcast/assets/80065244/f4203677-758d-41d3-a472-52159362a882 width=20% height=20%>
+<img src=https://github.com/nkoorty/Starcast/assets/80065244/ad81be78-8255-45b8-aaf8-38800c955234 width=20% height=20%>
+<img src=https://github.com/nkoorty/Starcast/assets/80065244/de89c2b5-fe26-4e48-8e08-a6cac0bf2c65 width=20% height=20%>
