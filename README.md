@@ -13,6 +13,23 @@ Experience the power of StarCast for formal use cases, where every vote matters.
 - Express JS Backend
 - Solidity smart contract
 
+### Smart Contract
+Found at: https://shibuya.subscan.io/account/0x3107bc73e554428ADc0773a9Ff659420416d8BFa?tab=transaction
+
+The SimpleVoting smart contract enables secure voting on the Ethereum blockchain. Participants can cast their votes for "Yes" or "No" options, which are tracked by the yesVotes and noVotes variables.
+
+##Functions
+
+#vote
+The vote function allows participants to submit their vote. It ensures that each participant can only vote once and emits the VoteCast event to notify external systems about the vote cast.
+
+#getVotes
+The getVotes function provides a read-only view of the current vote counts. Participants can access the values of yesVotes and noVotes to obtain the current vote tally.
+
+This smart contract promotes transparency and integrity in the voting process, enabling secure expression of preferences and easy access to the vote results.
+
+For more details, refer to the source code above.
+
 ### How to Run
 npm install -i
 (installing body-parser, ethers, express)
