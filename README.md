@@ -28,7 +28,7 @@ The getVotes function provides a read-only view of the current vote counts. Part
 
 This smart contract promotes transparency and integrity in the voting process, enabling secure expression of preferences and easy access to the vote results.
 
-For more details, refer to the source code above.
+For more details, refer to the source code SimpleVoting.sol.
 
 ### How to Run
 npm install -i
