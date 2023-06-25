@@ -9,9 +9,15 @@ With StarCast, formal voting processes become streamlined and efficient. Partici
 
 Experience the power of StarCast for formal use cases, where every vote matters. Revolutionize the way crucial decisions are made with this esteemed app, maintaining the dignity and integrity that formal settings demand.
 ### Technologies Used
+- Swift
+- Express JS Backend
+- Solidity smart contract
 
 ### How to Run
+npm install -i
+(installing body-parser, ethers, express)
 
+node server.js
 
 ## Images
 
