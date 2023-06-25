@@ -20,7 +20,7 @@ The SimpleVoting smart contract enables secure voting on the Ethereum blockchain
 
 ### Functions
 
-#### vote
+##### vote
 The vote function allows participants to submit their vote. It ensures that each participant can only vote once and emits the VoteCast event to notify external systems about the vote cast.
 
 #### getVotes
