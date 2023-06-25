@@ -18,12 +18,12 @@ Found at: https://shibuya.subscan.io/account/0x3107bc73e554428ADc0773a9Ff6594204
 
 The SimpleVoting smart contract enables secure voting on the Ethereum blockchain. Participants can cast their votes for "Yes" or "No" options, which are tracked by the yesVotes and noVotes variables.
 
-## Functions
+### Functions
 
-# vote
+#### vote
 The vote function allows participants to submit their vote. It ensures that each participant can only vote once and emits the VoteCast event to notify external systems about the vote cast.
 
-# getVotes
+#### getVotes
 The getVotes function provides a read-only view of the current vote counts. Participants can access the values of yesVotes and noVotes to obtain the current vote tally.
 
 This smart contract promotes transparency and integrity in the voting process, enabling secure expression of preferences and easy access to the vote results.
