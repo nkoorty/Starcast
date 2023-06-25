@@ -5,7 +5,7 @@ Introducing Starcast, an iOS-based voting dApp powered by a custom Solidity smar
 
 Starcast leverages the transperancy and integrity advantages of the blockchain, ensuring that every formal voting event is conducted with the utmost fairness. Governed by the robust smart contract, the entire process guarantees trust and accuracy, providing a reliable platform for critical decision-making.
 
-With Starcast, formal voting processes become streamlined and efficient. Participants receive exclusive one-time QR codes as an invite to vote, fortifying the system's security and safeguarding the sanctity of each vote. The user-friendly interface ensures a smooth and intuitive experience, empowering participants to engage actively in the decision-making process.
+With Starcast, formal voting processes become streamlined and efficient via the Metamask and the Polkadot.js wallet logins. Keep your data secure via the straight-forward login process which further emphasises the high accessibility of our ios app. Participants receive exclusive one-time QR codes as an invite to vote, fortifying the system's security and safeguarding the sanctity of each vote. The user-friendly interface ensures a smooth and intuitive experience, empowering participants to engage actively in the decision-making process.
 
 Experience the power of StarCast for both formal and informal use cases alike, where each vote matters. Choose where to go out to eat with your friends, or where you're going to celebrate your friends' birthday. Revolutionize the way crucial decisions are made with this esteemed app, maintaining the transparency, dignity, and integrity that formal settings demand.
 
