@@ -3,7 +3,7 @@
 ## Description
 Introducing Starcast, an iOS-based voting dApp powered by a custom Solidity smart contract, deployed on Astar (Shibuya) Network. This dApp offers a seamless and highly secure voting system designed for formal settings, such as council votes and other significant decision-making processes.
 
-Starcast leverages the transperancy and integrity advantages of the blockchain, ensuring that every formal voting event is conducted with the utmost fairness. Governed by the robust smart contract, the entire process guarantees trust and accuracy, providing a reliable platform for critical decision-making.
+Starcast leverages the transparency and integrity advantages of the blockchain, ensuring that every formal voting event is conducted with the utmost fairness. Governed by the robust smart contract, the entire process guarantees trust and accuracy, providing a reliable platform for critical decision-making.
 
 With Starcast, formal voting processes become streamlined and efficient via the Metamask and the Polkadot.js wallet logins. Keep your data secure via the straight-forward login process which further emphasises the high accessibility of our ios app. Participants receive exclusive one-time QR codes as an invite to vote, fortifying the system's security and safeguarding the sanctity of each vote. The user-friendly interface ensures a smooth and intuitive experience, empowering participants to engage actively in the decision-making process.
 
